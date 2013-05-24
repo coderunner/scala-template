@@ -6,7 +6,8 @@ This repository holds a basic sbt/scala project template to get you up and runni
 How to use this project template?
 ---------------------------------
 
-* Clone this repository.
+* Download https://github.com/coderunner/scala-template/archive/master.zip and unzip it!
+* Or fork the repository and git clone it.
 * Make sure Java 1.6 or higher installed on your machine. If not, install it http://java.com/en/download/help/download_options.xml
 * Download and install SBT (simple build tool) from http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html. SBT is a development tool used to compile, run and manage project's dependencies.
 
