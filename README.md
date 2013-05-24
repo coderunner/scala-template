@@ -14,14 +14,17 @@ Compile and Run
 ---------------
 
 Go into the project directory and on the command line run
+
     sbt compile
 
 This will compile this template project.
 
 Run the application using
+
     sbt run
 
 Run the tests using
+
     sbt test
 
 Using IDEA
@@ -29,6 +32,7 @@ Using IDEA
 Any editor can be used, but if you are using IntelliJ IDEA, install the scala plugin (File -> Settings -> plugins)
 
 Within the project folder, run
+
     sbt gen-idea
 
-This generates the IDEA project files.
+This command generates the IDEA project files.
